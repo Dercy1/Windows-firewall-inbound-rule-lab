@@ -27,4 +27,40 @@ Create an inbound rule that allows ICMPv4 Echo Request (Ping) traffic from a spe
 
 ## Screenshots
 
-(Add screenshots here after uploading them)
+## Screenshots
+
+### 1. Lab Overview
+![Lab Overview](Screenshots/Lab-overview.png)
+
+### 2. Windows Firewall Status
+![Windows Firewall Status](Screenshots/Windows-Firewall-Status.png)
+
+### 3. Windows Firewall with Advanced Security
+![Windows Firewall with Advanced Security](Screenshots/Windows-Firewall-with-Advanced-Security.png)
+
+### 4. Inbound Rules Selected
+![Inbound Rules Selected](Screenshots/Inbound-Rules-Selected.png)
+
+### 5. New Rule - Custom
+![New Rule Custom](Screenshots/New-Rule-Custom.png)
+
+### 6. Protocol Type - ICMPv4
+![Protocol Type ICMPv4](Screenshots/Protocol-Type-ICMPv4.png)
+
+### 7. Customize ICMP Settings - Echo Request Checked
+![ICMP Settings](Screenshots/Customize-ICMP-Settings-Echo-Request-checked.png)
+
+### 8. Scope Configuration
+![Scope Configuration](Screenshots/Scope-Configuration-192.168.1.1.png)
+
+### 9. Action - Allow the Connection
+![Action Allow Connection](Screenshots/Action-Allow-the-Connection.png)
+
+### 10. Profile Selection
+![Profile Selection](Screenshots/Profile-Selection-Domain-Private-Public.png)
+
+### 11. Rule Name - Ping Request
+![Rule Name](Screenshots/Rule-Name-Ping-Request.png)
+
+### 12. Completed Inbound Rule
+![Completed Inbound Rule](Screenshots/Completed-Inbound-Rule.png)
