@@ -31,7 +31,7 @@ Create an inbound rule that allows ICMPv4 Echo Request (Ping) traffic from a spe
  ![Lab Overview](Screenshots/Lab%20Overview.png)
 
 ### 2. Windows Firewall Status
-![Windows Firewall Status](Screenshots/Windows%20Firewall%20Status.png)
+ ![Windows Firewall Status](Screenshots/Windows%20Firewall%20Status.png)
 
 ### 3. Windows Firewall with Advanced Security
 ![Windows Firewall with Advanced Security](Screenshots/Windows%20Firewall%20with%20Advanced%20Security.png)
